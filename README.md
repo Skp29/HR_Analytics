@@ -32,6 +32,15 @@ Six different types of data visualizations were created to analyze the dataset:
 
 1. **Average Monthly Income by Job Role**: A bar plot to observe the mean monthly income across different job roles.
 2. *(Five more visualizations as per the project...)*
+   
+## Installation and Usage
+
+Before running the scripts, please set up the following environment variables for your MySQL connection:
+- `MYSQL_USER`: Your MySQL username
+- `MYSQL_PASSWORD`: Your MySQL password
+
+Replace these in the code with your actual username and password. For enhanced security, it's recommended to use a configuration file or environment variables that are not tracked in your version control system.
+
 
 ## Contributing
 
