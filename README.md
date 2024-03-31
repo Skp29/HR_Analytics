@@ -33,29 +33,10 @@ Six different types of data visualizations were created to analyze the dataset:
 1. **Average Monthly Income by Job Role**: A bar plot to observe the mean monthly income across different job roles.
 2. *(Five more visualizations as per the project...)*
 
-## Installation and Usage
-
-*(Provide instructions on setting up the project locally, including how to install required libraries, setting up the database, etc.)*
-
-## Results and Discussion
-
-*(Summarize the key findings, insights, and any recommendations or conclusions derived from the project.)*
-
-## Future Work
-
-*(Discuss any limitations and future extensions of the current analysis. This might include additional datasets, techniques, or areas of exploration.)*
-
 ## Contributing
 
 We welcome contributions and suggestions! Please fork the repository and create a new pull request for review.
 
-## License
-
-*(Specify the license under which your project is released, if applicable.)*
-
-## Contact
-
-For any queries, please reach out to [Your Name or Project Maintainer's Name](mailto:your-email@example.com).
 
 ---
 
